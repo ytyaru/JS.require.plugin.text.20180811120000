@@ -32,8 +32,6 @@ require(['require.text!txt/hello.md'], function (txt) {
 Library|License|Copyright
 -------|-------|---------
 [require](http://requirejs.org/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/requirejs/blob/master/LICENSE)
-[require domReady](https://github.com/requirejs/domReady)|[MIT](https://opensource.org/licenses/MIT)|[
-Copyright jQuery Foundation and other contributors](https://github.com/requirejs/domReady/blob/master/LICENSE)
-[require text](https://github.com/requirejs/text)|[MIT](https://opensource.org/licenses/MIT)|[
-Copyright jQuery Foundation and other contributors](https://github.com/requirejs/text/blob/master/LICENSE)
+[require domReady](https://github.com/requirejs/domReady)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/domReady/blob/master/LICENSE)
+[require text](https://github.com/requirejs/text)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/text/blob/master/LICENSE)
 
